@@ -9,7 +9,7 @@ const About = () => {
         headtitle={'About'}
         headtitle2={'Us'}
         headSubTitle={
-          'As a leading digital marketing agency in Delhi & Gurgaon, We Provide Website Design, SEO Optimization & Full-Service Digital Marketing'
+          'As a leading digital marketing agency in Casablanca, We Provide Website Design, SEO Optimization & Full-Service Digital Marketing'
         }
         headButton={'Connect Now'}
         headButtonLink={'/contact'}
